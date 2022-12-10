@@ -3,13 +3,12 @@
 - 🔭 Atualmente estou aprendendo o ecossitema do JavaScript. Nossa o JavaScript é muito massa e ao mesmo tempo é complexo.
 - 🌱 Estudando algoritmos e lógica de programação
 - 📫 Meu email: samuelfranko66@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/samuel-franco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-franco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-franco&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuel-franco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-franco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
