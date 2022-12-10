@@ -1,7 +1,7 @@
 ### Olá, Sou Samuel e seja bem vindo(a) ao meu perfil👋
 
 - 🔭 Atualmente estou aprendendo o ecossitema do JavaScript. Nossa o JavaScript é muito massa e ao mesmo tempo é complexo.
-- 🌱 Estudando algoritmos e lógica de programação
+- 🌱 Estudando algoritmos e lógica de programação e estrutura de dados.
 - 📫 Meu email: samuelfranko66@gmail.com
 - ⚡ Fun fact: ...
 
