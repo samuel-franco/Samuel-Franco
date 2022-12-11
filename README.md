@@ -1,7 +1,7 @@
 ### Olá, Sou Samuel e seja bem vindo(a) ao meu perfil👋
 
 - 🔭 Atualmente estou aprendendo o JavaScript e o seu ecossitema. 
-- 🔦 O JavaScript é muito massa e ao mesmo tempo é muiro complexo.
+- 🔦 O JavaScript é muito massa e ao mesmo tempo é muito complexo.
 - 🌱 Estudando algoritmos e lógica de programação e estrutura de dados.
 - ⚡ Fun fact: ...
 
